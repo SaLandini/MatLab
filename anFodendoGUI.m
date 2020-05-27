@@ -127,4 +127,5 @@ numRow = str2double( get(handles.jora,'String') );
 
 randNumOfLines = randn(numRow,numCol)
 plot(handles.joaquim,randNumOfLines,'linew',2)
+
 disp('O joca é brabo nas linhas, não?')    
