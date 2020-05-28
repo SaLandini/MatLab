@@ -108,6 +108,14 @@ function msg = getaphrase
         'Tequila? Bora'...,
         'QUEM QUE É A CALCULADORA DESSA PORRA??'...
         'ATA, CALMA, SOU EU',...
+        'HVA FANDEN ER DET??',...
+        'ДИМИТРИЙ ЭТО МОЙ ВОДКА'...,
+        'СОХРАНИТЬ СТАЛИНА',...,
+        'Fuck what?',...,
+        'Bring me that vodka',...,
+        'HOLY SHIT WHERE THE HELL I AM?',...,
+        'Jeg er dø her',...,
+        'أنا أموت هنا',...,
         };
     msg = allmsg(randi(length(allmsg)));
 end
