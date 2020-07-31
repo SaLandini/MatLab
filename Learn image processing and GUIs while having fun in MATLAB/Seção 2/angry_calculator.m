@@ -8,7 +8,7 @@ monSize = get(0,"ScreenSize");
 
 calcFig = figure('Position',[1 1 monSize(3)*.30 monSize(4)*.35],'menubar','none','name',"FUCK YOU!!! I WILL NOT CALCULATE FOR YOU",'Numbertitle', 'off');
 
-set(calcFig, 'resize','off','color',[1 1 1]*.3); 
+set(calcFig, 'resize','on','color',[1 1 1]*.3); 
 
 figsize = get(calcFig, 'Position')
 figsize = figsize(3:4);
